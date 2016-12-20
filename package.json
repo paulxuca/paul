@@ -1,0 +1,21 @@
+{
+  "name": "drop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/paulxuca/paul.git",
+    "type": "git"
+  },
+  "author": "paulxuca <paulxuca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/storage": "^0.6.0",
+    "nodent": "^3.0.7"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.1.1"
+  },
+  "eslintConfig": {
+    "parser": "babel-eslint"
+  }
+}
