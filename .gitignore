@@ -1,3 +1,7 @@
 node_modules/
 .DS_Store
 secret/
+tsconfig.json
+.vscode
+yarn-error.log
+npm-debug.log

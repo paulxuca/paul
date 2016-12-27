@@ -1,2 +1,2 @@
 require('nodent')();
-require('./start');
+require('./server');
